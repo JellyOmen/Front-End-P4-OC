@@ -9,6 +9,10 @@
 
 The form should validate user inputs via Javascript and display appropriate visual feedback to the user.
 
+## Link to the website
+
+[GameOn - Gaming events](https://jellyomen.github.io/Front-End-P4-OC/)
+
 > ## **Developement technologies used**
 
 - HTML and CSS
